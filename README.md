@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎖️ Former IDF War Room Commander with a background in high-pressure environments. Started in security, then promoted to sergeant and led a war room team. Managed multiple real-time systems, coordinated logistics and communications between military branches, and worked directly with the command centers and administrative teams of senior officers and officials.<br>
-🧑‍💻 After my service, I worked in support and service roles — including customer tech support at a telecom company — before fully committing to a career in tech.<br>
+🧑‍💻 After my service, I worked in support and service roles — catering and waitering in events, customer tech support at a telecom company — before fully committing to a career in tech.<br>
 🎓 Graduated with top honors from the John Bryce Full Stack Development course, consistently scoring 100 on assignments and exams.<br>
 🛠️ I love building full stack apps using tools like React, Node.js, and SQL/Mongo, and enjoy working on clean, user-focused solutions.<br>
 
